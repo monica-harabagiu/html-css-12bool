@@ -1,0 +1,44 @@
+/* * {
+    border: 1px solid pink;
+} */
+
+.row-white {
+    background-color: white;
+    height: 50px;
+}
+
+.height-20 {
+    height: 40px;
+}
+
+.color-black {
+    background-color: black;
+}
+
+.color-light-blue {
+    background-color: #6BD7CF;
+}
+
+.color-blue {
+    background-color: #46BAB9;
+}
+
+.color-dark-blue {
+    background-color: #418799;
+}
+
+.color-grey {
+    background-color: #424242;
+}
+
+.color-red {
+    background-color: #BC3344;
+}
+
+.color-light-red {
+    background-color: #DE6161;
+}
+
+.color-dark-red {
+    background-color: #9B3753;
+}
